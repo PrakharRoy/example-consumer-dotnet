@@ -13,6 +13,7 @@ using PactNet.Infrastructure.Outputters;
 using PactNet.Output.Xunit;
 using System.Threading.Tasks;
 
+
 namespace tests
 {
     public class ConsumerPactTests
